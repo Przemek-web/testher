@@ -14,7 +14,9 @@
     <name>pomocnikseniora</name>
     <description>Project for Elderly People</description>
 
-
+    <properties>
+        <java.version>11</java.version>
+    </properties>
 
     <dependencies>
         <dependency>
